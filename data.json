@@ -162,8 +162,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "cc6444195c8cd572",
-        "key": "s130",
+        "device_id": "bb581b0b84823826",
+        "key": "sc130",
         "expirydate": "21-06-2026",
         "Allowoffline": false
     },
@@ -402,8 +402,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "bb581b0b84823826",
-        "key": "sameerpersonal",
+        "device_id": "device45678",
+        "key": "key123456",
         "expirydate": "16-07-2026",
         "Allowoffline": false
     },
